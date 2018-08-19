@@ -1,0 +1,9 @@
+{
+  "name": "markdoc",
+  "version": "0.1.0",
+  "description": "Google Docs addon: export as Markdown (GitHub flavour)",
+  "main": "index.js",
+  "repository": "https://github.com/richchurcher/markdoc",
+  "author": "Rich Churcher <rich.churcher@gmail.com>",
+  "license": "Apache-2.0"
+}
